@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
